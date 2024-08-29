@@ -23,7 +23,7 @@ const ElectronWoondenFish: React.FC<Iprops> = ({ handleClose }) => {
           className={beat ? Style.textBeat : ''}
           style={{ position: 'absolute', top: 30, opacity: '0' }}
         >
-          功德+1
+          胡伟是傻逼+1
         </span>
         <img
           src={Fish}

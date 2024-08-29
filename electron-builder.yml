@@ -1,5 +1,5 @@
 appId: com.electron.app
-productName: electron-app
+productName: wooden-fish
 directories:
   buildResources: build
 files:
